@@ -1,2 +1,2 @@
 # hello-world-repository
-hello world fisrt repository
+hello world first repository
